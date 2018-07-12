@@ -686,7 +686,7 @@
 			input[type="reset"].down.round,
 			.button.down.round,
 			button.down.round {
-				/* bottom: 1em; */
+				bottom: 1em;
 				margin-left: -2.5em;
 			}
 
@@ -1039,12 +1039,6 @@
 	header {
 		margin-bottom: 1em;
 	}
-
-		/* header h1 {
-			font-size: 200%;
-			margin-left: -0.6em;
-			margin-top: -0.75em;
-		} */
 
 		header p {
 			display: block;
